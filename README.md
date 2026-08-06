@@ -26,7 +26,7 @@ This project aims to characterize biosynthetic gene clusters (BGCs) using genome
 | RStudio + tidyverse & vegan | v4.5.3 | Statistical analysis and visualization |
 
 The pipeline was conducted on the Narval cluster (Compute Canada / Digital Research Alliance of Canada).
-Citations for all tools are included in /Tool_citations.txt
+Citations for all tools are included in [Tool_citations.txt](./Tool_citations.txt)
 
 ### R Analysis
 
