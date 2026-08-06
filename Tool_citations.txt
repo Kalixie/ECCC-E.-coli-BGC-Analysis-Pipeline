@@ -1,0 +1,33 @@
+Alcock, B. P., Huynh, W., Chalil, R., et al. (2023). CARD 2023: Expanded curation, support for machine learning, and resistome prediction at the Comprehensive Antibiotic Resistance Database. Nucleic Acids Research, 51(D1), D690–D699. https://doi.org/10.1093/nar/gkac920
+
+Blin, K., Shaw, S., Vader, L., et al. (2025). antiSMASH 8.0: Extended gene cluster detection capabilities and analyses of chemistry, enzymology, and regulation. Nucleic Acids Research, 53(W1), W32–W38. https://doi.org/10.1093/nar/gkaf334
+
+Carroll, L. M., Larralde, M., Fleck, J. S., Ponnudurai, R., Milanese, A., Cappio Barazzone, E., & Zeller, G. (2021). Accurate de novo identification of biosynthetic gene clusters with GECCO [Preprint]. bioRxiv. https://doi.org/10.1101/2021.05.03.442509
+
+Gilchrist, C. L. M., & Chooi, Y.-H. (2021). clinker & clustermap.js: Automatic generation of gene cluster comparison figures. Bioinformatics, 37(16), 2473–2475. https://doi.org/10.1093/bioinformatics/btab007
+
+Gurevich, A., Saveliev, V., Vyahhi, N., & Tesler, G. (2013). QUAST: Quality assessment tool for genome assemblies. Bioinformatics, 29(8), 1072–1075. https://doi.org/10.1093/bioinformatics/btt086
+
+Jain, C., Rodriguez-R, L. M., Phillippy, A. M., Konstantinidis, K. T., & Aluru, S. (2018). High throughput ANI analysis of 90K prokaryotic genomes reveals clear species boundaries. Nature Communications, 9, 5114. https://doi.org/10.1038/s41467-018-07641-9
+
+Navarro-Muñoz, J. C., Selem-Mojica, N., Mullowney, M. W., et al. (2026). BiG-SCAPE 2.0 and BiG-SLiCE 2.0: Scalable, accurate and interactive sequence clustering of metabolic gene clusters. Nature Communications, 17, 2000. https://doi.org/10.1038/s41467-026-68733-5
+
+Oksanen, J., Simpson, G., Blanchet, F. G., et al. (2022). vegan: Community ecology package (R package version 2.6-4). https://CRAN.R-project.org/package=vegan
+
+Seemann, T. (2019). Mlst: Scan contig files against PubMLST typing schemes. GitHub. https://github.com/tseemann/mlst
+
+R Core Team. (2024). R: A language and environment for statistical computing. R Foundation for Statistical Computing. https://www.R-project.org/
+
+Robertson, J., & Nash, J. H. E. (2018). MOB-suite: Software tools for clustering, reconstruction and typing of plasmids from draft assemblies. Microbial Genomics, 4(8), e000206. https://doi.org/10.1099/mgen.0.000206
+
+Schwengers, O., Jelonek, L., Dieckmann, M. A., Beyvers, S., Blom, J., & Goesmann, A. (2021). Bakta: Rapid and standardized annotation of bacterial genomes via alignment-free sequence identification. Microbial Genomics, 7(11), 000685. https://doi.org/10.1099/mgen.0.000685
+
+Shannon, P., Markiel, A., Ozier, O., Baliga, N. S., Wang, J. T., Ramage, D., Amin, N., Schwikowski, B., & Ideker, T. (2003). Cytoscape: A software environment for integrated models of biomolecular interaction networks. Genome Research, 13(11), 2498–2504. https://doi.org/10.1101/gr.1239303
+
+Waters, N. R., Abram, F., Brennan, F., Holmes, A., & Pritchard, L. (2020). Easy phylotyping of Escherichia coli via the EzClermont web app and command-line tool. Access Microbiology, 2(9), acmi000143. https://doi.org/10.1099/acmi.0.000143
+
+Wickham, H., Averick, M., Bryan, J., Chang, W., McGowan, L. D., François, R., Grolemund, G., Hayes, A., Henry, L., Hester, J., Kuhn, M., Pedersen, T. L., Miller, E., Bache, S. M., Müller, K., Ooms, J., Robinson, D., Seidel, D. P., Spinu, V., … Yutani, H. (2019). Welcome to the tidyverse. Journal of Open Source Software, 4(43), 1686. https://doi.org/10.21105/joss.01686
+
+Wood, D. E., Lu, J., & Langmead, B. (2019). Improved metagenomic analysis with Kraken 2. Genome Biology, 20, 257. https://doi.org/10.1186/s13059-019-1891-0
+
+Zdouc, M. M., Blin, K., Louwen, N. L. L., Navarro, J., Loureiro, C., Bader, C. D., Bailey, C. B., Barra, L., Booth, T. J., Bozhüyük, K. A. J., Cediel-Becerra, J. D. D., Charlop-Powers, Z., Chevrette, M. G., Chooi, Y. H., D'Agostino, P. M., de Rond, T., Del Pup, E., Duncan, K. R., Gu, W., Hanif, N., … Medema, M. H. (2025). MIBiG 4.0: advancing biosynthetic gene cluster curation through global collaboration. Nucleic acids research, 53(D1), D678–D690. https://doi.org/10.1093/nar/gkae1115
