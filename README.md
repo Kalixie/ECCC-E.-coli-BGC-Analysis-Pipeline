@@ -11,8 +11,8 @@ This project aims to characterize biosynthetic gene clusters (BGCs) using genome
 | Tool | Version | Purpose |
 |------|---------|---------|
 | QUAST | v5.2.0 | Assembly quality control |
-| FastANI | v1.32 | Species Conformation |
-| Kraken2 | v2.1.6 | Species Conformation |
+| FastANI | v1.32 | Species Confirmation |
+| Kraken2 | v2.1.6 | Species Confirmation |
 | Bakta | v1.12.0 | Genome annotation |
 | antiSMASH | v8.0.4 | Rule-based BGC prediction |
 | GECCO | v0.10.3 | ML-based BGC prediction |
@@ -23,7 +23,7 @@ This project aims to characterize biosynthetic gene clusters (BGCs) using genome
 | RGI/CARD | v6.0.8 | AMR gene detection |
 | clinker | v0.0.32 | BGC synteny comparison |
 | Cytoscape | v3.10.4 | Network visualization |
-| RStudio/tidyverse | v4.5.3 | Statistical analysis and visualization |
+| RStudio + tidyverse & vegan | v4.5.3 | Statistical analysis and visualization |
 
 The pipeline was conducted on the Narval cluster (Compute Canada / Digital Research Alliance of Canada).
 Citations for all tools are included in Tool_citations.txt
